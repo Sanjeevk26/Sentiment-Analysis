@@ -16,7 +16,7 @@ Steps for running the program for twitter:
 
 Similary for getting results from Youtube, make sure you have a google developer account and enable the youtube API in the project.
 
-A useful and easy to follow [tutorial] (https://www.youtube.com/watch?v=pP4zvduVAqo) for enabling the youtube API for your project. 
+A useful and easy to follow [tutorial](https://www.youtube.com/watch?v=pP4zvduVAqo) for enabling the youtube API for your project. 
 
 Steps for running the program for youtube:
 
