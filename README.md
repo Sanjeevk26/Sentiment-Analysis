@@ -12,4 +12,15 @@ Steps for running the program for twitter:
 1) Click on the SK_twitter.py file
 2) This will open a web page, enter the topic and the number of tweets (Maximum 1000) you want to get
 3) A csv file will be downloaded once you click on the submit button (this will take some time)
-4) Open the Jupyter notebook (.ipynb) file and analyse as well as plot the results from tweets. 
+4) Open the Jupyter notebook (.ipynb) file and analyse as well as plot the results from tweets
+
+Similary for getting results from Youtube, make sure you have a google developer account and enable the youtube API in the project.
+
+A useful and easy to follow [tutorial] (https://www.youtube.com/watch?v=pP4zvduVAqo) for enabling the youtube API for your project. 
+
+Steps for running the program for youtube:
+
+1) Click on the SK_youtube.py file
+2) This will open a web page, enter the topic 
+3) A csv file will be downloaded once you click on the submit button (this will take some time)
+4) Open the Jupyter notebook (.ipynb) file and analyse as well as plot the results from top 25 results from youtube. 
